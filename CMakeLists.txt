@@ -279,3 +279,4 @@ install(FILES
   ${CMAKE_CURRENT_BINARY_DIR}/QtNodesConfig.cmake
   DESTINATION ${INSTALL_CONFIGDIR}
 )
+add_subdirectory(examples/gst_node)
